@@ -82,3 +82,7 @@ nav ul li a {
     font-family: 'Helvetica', sans-serif; /*tipografía texto*/
     border-radius: 5px; /*bordes redondos*/
     }
+#position{
+    position:right;
+    text-align:center;
+}
